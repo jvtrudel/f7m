@@ -1,3 +1,4 @@
+# -*- conding:utf-8 -*-
 
 from f7m import Histoire
 from .contenu import histoire

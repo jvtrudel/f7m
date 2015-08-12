@@ -1,3 +1,5 @@
+# -*- coding:utf-8 -*-
+
 try:
     from IPython.core.display import Markdown
 except:
