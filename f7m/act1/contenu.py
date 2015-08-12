@@ -1,4 +1,4 @@
-
+# -*- coding:utf-8 -*-
 
 histoire="""
 #Il faudra apprendre le binaire!
