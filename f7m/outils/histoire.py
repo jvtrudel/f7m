@@ -1,4 +1,9 @@
-from IPython.core.display import Markdown
+try:
+    from IPython.core.display import Markdown
+except:
+    def Markdown(txt):
+        return txt
+        
 import os
 
 class Histoire(object):
